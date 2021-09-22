@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @themanavshah
-- 👀 I’m interested in flutter dart, node.js and blockchain.
-- 🌱 I’m currently learning app development.
-- 💞️ I’m looking to collaborate on anything.
+- 👀 I’m interested in flutter, node.js and blockchain.
+- 🌱 I’m currently learning blockchain development.
+- 💞️ I’m looking to collaborate on app development || blockchain development.
 - 📫 How to reach me? @manavcodes on instagram.
 
 <!---
