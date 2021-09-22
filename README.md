@@ -2,7 +2,7 @@
 - 👀 I’m interested in flutter dart, node.js and blockchain.
 - 🌱 I’m currently learning app development.
 - 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me? @thecreatormanav on instagram.
+- 📫 How to reach me? @manavcodes on instagram.
 
 <!---
 themanavshah/themanavshah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
