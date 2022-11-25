@@ -1,3 +1,8 @@
+<br>
+<p align="center">
+<img src="[https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif](https://media-exp1.licdn.com/dms/image/D4D16AQH9h2wcrzo21Q/profile-displaybackgroundimage-shrink_350_1400/0/1666614739560?e=1674691200&v=beta&t=2t92JDIIqvZStUlpG_9uOiXvJz6swyOIuu1_Q15N3iU)">
+</p>
+
 ## Hello World, I'm Manav 👋
 Manav Shah is a Blockchain developer and maximalist besides he is a flutter developer. He works as a Senior developer at Tylmen tech and he is a co-founder of the web3 social media Societiez. 
 
