@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=themanavshah&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themanavshah&langs_count=5&show_icons=true&theme=radical)](https://github.com/kavania2002/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themanavshah&langs_count=5&show_icons=true&theme=radical)](https://github.com/themanavshah/github-readme-stats)
 
 <img src="https://github-profile-trophy.vercel.app/?username=themanavshah&margin-w=5&theme=radical">
 
