@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @themanavshah
-- 👀 I’m interested in flutter, node.js and blockchain.
-- 🌱 I’m currently learning blockchain development.
-- 💞️ I’m looking to collaborate on app development || blockchain development.
-- 📫 How to reach me? @manavcodes on instagram.
+## Hello Worl, I'm Manav 👋
+Manav Shah is a Blockchain developer and maximalist besides he is a flutter developer. He works as a Senior developer at Tylmen tech and he is a co-founder of the web3 social media Societiez. 
+
+Other things about him:
+- 👀 He has 35k+ followers on instagram @manavcodes.
+- 🌱 He is a content creator and social media manager.
+- 💞️ He is also a freelancer who works for small or personal brands. 
+- 📫 He is a marketing outreach partner at E-cell IIT bombay 2023.
 
 <!---
 themanavshah/themanavshah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
