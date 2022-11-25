@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<img src="https://i.ibb.co/jyPP47R/github-bannwer.png">
+<img src="https://iili.io/H3UK6tn.png">
 </p>
 
 ## Hello World, I'm Manav 👋
