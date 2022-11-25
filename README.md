@@ -1,4 +1,4 @@
-## Hello Worl, I'm Manav 👋
+## Hello World, I'm Manav 👋
 Manav Shah is a Blockchain developer and maximalist besides he is a flutter developer. He works as a Senior developer at Tylmen tech and he is a co-founder of the web3 social media Societiez. 
 
 Other things about him:
@@ -6,6 +6,18 @@ Other things about him:
 - 🌱 He is a content creator and social media manager.
 - 💞️ He is also a freelancer who works for small or personal brands. 
 - 📫 He is a marketing outreach partner at E-cell IIT bombay 2023.
+
+### 🛠️  Technical Skill Set
+
+### Languages:
+<p float="left">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=solidity">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
+</p>
 
 <!---
 themanavshah/themanavshah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
